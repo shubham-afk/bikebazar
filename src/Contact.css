@@ -1,0 +1,18 @@
+.contact-background {
+  background-image: url("C:\Users\stiwa\OneDrive\Desktop\BikeBazar\bikebazar\src\contactbg.webp");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  color: white;
+}
+.custom-header-title {
+  margin-left: 8.2rem;
+  margin-top: 9.2rem;
+  font-family: "Poppins", cursive;
+  font-size: 4.6rem;
+  font-weight: 700;
+}
+.custom-form-title {
+  font-family: "Poppins", cursive;
+}

@@ -1,0 +1,53 @@
+.home1-background {
+  background-image: url("C:\Users\stiwa\OneDrive\Desktop\BikeBazar\bikebazar\src\featurebg.webp");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  color: white;
+  padding-top: 0px;
+  box-sizing: border-box;
+}
+
+.title-container {
+  margin-top: 20px;
+  margin-bottom: 2rem;
+}
+
+.feature-title {
+  font-size: 2.5rem;
+  padding: 1rem;
+  text-align: center;
+  margin: -94px;
+}
+.feature-title .highlight {
+  color: orange;
+}
+.feature-paragraph {
+  margin-left: -25px;
+  margin-top: 81px;
+  font-size: 1.3rem;
+  font-weight: 700;
+  border-bottom: 2px solid white; /* Adds an underline below the title */
+  display: inline-block;
+}
+.feature-images {
+  display: flex;
+  justify-content: center;
+}
+
+.image-col {
+  display: flex;
+  justify-content: center;
+}
+
+.feature-image {
+  width: 400px;
+  height: 250px;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.feature-image:hover {
+  transform: scale(1.1);
+}

@@ -1,0 +1,32 @@
+.custom-navbar {
+  height: 84px;
+}
+
+.navbar-logo {
+  height: 252px;
+  margin-left: 46px;
+  width: 196px;
+}
+.navbar-nav .nav-link {
+  white-space: nowrap;
+}
+.navbar-btn {
+  margin-right: 75px;
+}
+
+.custom-logo {
+  font-family: "Berkshire Swash", cursive;
+  font-size: 2.5em;
+  padding-left: 2.6em;
+}
+.custom-header {
+  font-family: "Poppins", cursive;
+}
+.nav-button.active {
+  font-weight: bold;
+  border-bottom: 2px solid #e76f51;
+}
+.custom-collapse {
+  z-index: 1;
+  margin-right: 86px;
+}
